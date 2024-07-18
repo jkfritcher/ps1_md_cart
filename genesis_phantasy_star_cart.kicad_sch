@@ -8429,7 +8429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Custom:DIL42_600mil_P70mil_SmallDrill"
+		(property "Footprint" "Custom:SPDIP-42_W15.24mm_P1.78mm"
 			(at 106.68 93.98 0)
 			(effects
 				(font
@@ -8598,7 +8598,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1c0ae195-ef1a-4d8c-82ee-9b521c37de42")
 		(property "Reference" "J2"
 			(at 218.694 38.608 0)

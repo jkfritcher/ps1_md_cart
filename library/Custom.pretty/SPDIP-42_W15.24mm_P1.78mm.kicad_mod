@@ -1,4 +1,4 @@
-(footprint "DIL42_600mil_P70mil_SmallDrill"
+(footprint "SPDIP-42_W15.24mm_P1.78mm"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "DIL-42_W600mil_P70mil_Drill20mil"
+	(property "Value" "SPDIP-42_W15.24mm_P1.78mm"
 		(at 7.62 38.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -575,7 +575,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "a8b40143-8363-471f-82cb-22776dc9c073")
 	)
-	(model "${KIPRJMOD}/library/spdip-42-w600-p70.step"
+	(model "${KIPRJMOD}/library/SPDIP-42_W15.24mm_P1.78mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
