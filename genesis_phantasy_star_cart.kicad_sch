@@ -10053,7 +10053,7 @@
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
-		(at 196.85 152.4 0)
+		(at 257.81 147.32 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10062,7 +10062,7 @@
 		(fields_autoplaced yes)
 		(uuid "bfec383f-5e5f-4d52-9a27-f17d2c6493bc")
 		(property "Reference" "#SYM1"
-			(at 196.85 145.415 0)
+			(at 257.81 140.335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10071,7 +10071,7 @@
 			)
 		)
 		(property "Value" "Logo_Open_Hardware_Small"
-			(at 196.85 158.115 0)
+			(at 257.81 153.035 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10080,7 +10080,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 152.4 0)
+			(at 257.81 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,7 +10089,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 152.4 0)
+			(at 257.81 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10098,7 +10098,7 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 196.85 152.4 0)
+			(at 257.81 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
