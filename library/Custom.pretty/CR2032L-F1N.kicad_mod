@@ -1,0 +1,100 @@
+(footprint "CR2032L-F1N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -26.5 23.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a321da25-7a3d-4515-980f-be25cd89615b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CR2032L-F1N"
+		(at -14.1 21.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4e382365-1407-4fde-9f74-1023be6bab85")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efc69f49-eb29-43d6-9011-d9795e9740e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://datasheet.ciiva.com/2/cr-2032l20f1n-2916.pdf"
+		(at 0 23.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95167ea4-7dd9-4f90-96e1-d9410d09eacd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2bbea135-69ff-40a7-9df5-0404f43dfc8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_text user "${REFERENCE}"
+		(at 0 20.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "345e7437-8226-4758-a5eb-c5790e878ce9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.8 4.5)
+		(drill oval 0.8 3.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1640419948)
+		(uuid "a43d7481-bba4-4fc8-affd-eee01ab636a8")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 7.45)
+		(size 1.8 4.5)
+		(drill oval 0.8 3.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1640419948)
+		(uuid "c6a792e6-2589-4f9d-9cce-515141ccf26e")
+	)
+)
